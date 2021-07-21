@@ -1,0 +1,15 @@
+.player-div {
+    background-color: indigo;
+    border: black solid 1px;
+    color: white;
+    margin: 5px;
+}
+
+.player-div:hover {
+    border: blue solid 2px;
+    cursor: pointer;
+}
+
+.player-div:active {
+    background-color: rgb(208, 142, 255);
+}
